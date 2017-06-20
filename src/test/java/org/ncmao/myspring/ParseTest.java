@@ -1,7 +1,7 @@
 package org.ncmao.myspring;
 
 
-import org.ncmao.myspring.entity.ClassPathXmlApplicationContext;
+import org.ncmao.myspring.main.ClassPathXmlApplicationContext;
 import org.ncmao.myspring.entity.Student;
 
 import static org.hamcrest.core.Is.is;

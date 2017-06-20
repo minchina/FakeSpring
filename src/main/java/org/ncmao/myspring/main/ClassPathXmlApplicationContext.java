@@ -1,4 +1,4 @@
-package org.ncmao.myspring.entity;
+package org.ncmao.myspring.main;
 
 import org.apache.commons.beanutils.BeanUtils;
 import org.ncmao.myspring.config.Bean;
